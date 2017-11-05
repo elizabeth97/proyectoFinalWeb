@@ -27,8 +27,8 @@
 		}
 
 	body, input, select, textarea {
-		color: #666;
-		font-family: "Source Sans Pro", Helvetica, sans-serif;
+		color: #000000;
+		font-family: 1em Arial, Helvetica, sans-serif;
 		font-size: 16pt;
 		font-weight: 300;
 		line-height: 1.65em;
@@ -60,7 +60,7 @@
 	}
 
 	p {
-		margin: 0 0 2em 0;
+		margin: 0 0 1em 0;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -553,6 +553,7 @@
 			.image.fit img {
 				width: 100%;
 			}
+		
 
 /* List */
 
